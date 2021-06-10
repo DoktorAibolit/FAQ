@@ -6,7 +6,7 @@
 #           (dans notre cas C:\Temp\log)  
 # 3.Spécifiez le format de fichier dans laequel vous souhaitez rechercher
 #           (dans notre cas tous les fichiers avec extension txt: *.txt) 
-# 
+
 $searchWords = 'Tibidou'
 
 Foreach ($sw in $searchWords)
